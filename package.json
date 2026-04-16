@@ -1,0 +1,9 @@
+{
+  "name": "crud-productos-simple",
+  "version": "1.0.0",
+  "description": "CRUD sencillo de productos con Node.js sin dependencias",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
